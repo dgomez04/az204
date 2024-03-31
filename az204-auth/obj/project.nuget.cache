@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yagiKBeJ4K7SP2cQHO4Mnq2jsRml4oidlRwZof/KWUyXyB7WH9zukNDslwxz3Dc8Wa4JpUaa8u82ySNqzB8hdw==",
+  "success": true,
+  "projectFilePath": "/Users/diego.gomez/Documents/repos/az204-auth/az204-auth.csproj",
+  "expectedPackageFiles": [
+    "/Users/diego.gomez/.nuget/packages/microsoft.identity.client/4.59.0/microsoft.identity.client.4.59.0.nupkg.sha512",
+    "/Users/diego.gomez/.nuget/packages/microsoft.identitymodel.abstractions/6.22.0/microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "/Users/diego.gomez/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/Users/diego.gomez/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
